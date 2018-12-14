@@ -56,7 +56,17 @@ An easy to use library in Modern C++
 ### What's New  
 None  
 
+### What's New  
+None  
+
 ###  How to contribute  
+
+1. `fork` this repository into your user account.  
+2. `clone` your repository to your local.  
+3. coding.  
+4. `push` your local changes to remote.  
+5. Request a `Pull Requests` to this repository.  
+6. `review` and merge.  
 
 1. `fork` this repository into your user account.  
 2. `clone` your repository to your local.  
